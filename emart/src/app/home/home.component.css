@@ -13,4 +13,5 @@ p svg{
 p .usr-icon{
     float: right;
     margin-top: -15px;
+    cursor: pointer;
 }
